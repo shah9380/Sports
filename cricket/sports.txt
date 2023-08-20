@@ -1,0 +1,5 @@
+Cricket uses :
+
+1.bats
+2.balls
+3.stumps
